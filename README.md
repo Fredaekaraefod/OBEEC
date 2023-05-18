@@ -8,10 +8,14 @@ The Restaurant Website project aims to create a dynamic and user-friendly websit
 
 ## Team Members
 
-- Efod Freda
-- Bello Olatunbosun
+-Efod Freda
+
+-Bello Olatunbosun
+
 -Idowu Akinwalehinmi
+
 -Lateef Latifat
+
 -Membere Inoma
 
 ## Project Features
