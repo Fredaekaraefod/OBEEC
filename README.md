@@ -1,10 +1,10 @@
-# Restaurant Website Project - README
+# Restaurant Website Project(OBEEC) - README
 
-This README provides an overview and instructions for the Restaurant Website project developed by a team of five Computer Science students as part of the GST 203 course in Caleb University.
+This README provides an overview and instructions for the Restaurant Website project  named OBEEC resturant developed by a team of five Computer Science students as part of the GST 203 course in Caleb University.
 
 ## Project Description
 
-The Restaurant Website project aims to create a dynamic and user-friendly website for a fictional restaurant. The website serves as a platform for customers to explore the restaurant's menu, make reservations, and learn more about the establishment. The project incorporates various features and technologies to enhance the user experience and showcase the team's skills.
+The OBEEC Restaurant Website project aims to create a dynamic and user-friendly website for a fictional restaurant. The website serves as a platform for customers to explore the restaurant's menu, make reservations, and learn more about the establishment. The project incorporates various features and technologies to enhance the user experience and showcase the team's skills.
 
 ## Team Members
 
@@ -20,7 +20,7 @@ The Restaurant Website project aims to create a dynamic and user-friendly websit
 
 ## Project Features
 
-The Restaurant Website project includes the following key features:
+The OBEEC Restaurant Website project includes the following key features:
 
 1. **Home Page**: An attractive and informative landing page that provides an overview of the restaurant, including high-quality images, contact information, and opening hours.
 
@@ -51,4 +51,4 @@ To set up and run the Restaurant Website project locally, follow these steps:
 
 ## Conclusion
 
-The Restaurant Website project developed by the team of Computer Science students provides an engaging and functional website for a fictional restaurant. It demonstrates the team's skills in web development, user experience design, and frontend technologies. Feel free to explore the website and contact us if you have any questions or feedback. Enjoy your dining experience!
+The OBEEC project developed by the team of Computer Science students provides an engaging and functional website for a fictional restaurant. It demonstrates the team's skills in web development, user experience design, and frontend technologies. Feel free to explore the website and contact us if you have any questions or feedback. Enjoy your dining experience!
