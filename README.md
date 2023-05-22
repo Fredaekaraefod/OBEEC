@@ -101,7 +101,7 @@ Clone the project repository from [GitHub Repo URL] to your local machine.
 Ensure you have a compatible web server environment (such as Apache or Chrome) installed.
 Start the web server and navigate to the project directory in your web browser.
 License
-The OBEEC Restaurant Website project is licensed under the MIT License. You can find the full text of the license in the LICENSE file.
+The OBEEC Restaurant Website project is licensed under the MIT License. You can find the full text of the license in the LICENSE.md file.
 >>>>>>> 8d9d173ff1b4d55f13e32736f66a3bb67997a3bc
 
 Conclusion
