@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Restaurant Website Project (OBEEC) - README
 
 This README provides an overview and instructions for the Restaurant Website project named OBEEC restaurant developed by a team of five Computer Science students as part of the GST 203 course in Caleb University.
@@ -7,12 +7,12 @@ This README provides an overview and instructions for the Restaurant Website pro
 =======
 Restaurant Website Project (OBEEC) - README
 This README provides an overview and instructions for the Restaurant Website project named OBEEC restaurant developed by a team of five Computer Science students as part of the GST 203 course in Caleb University.
->>>>>>> 8d9d173ff1b4d55f13e32736f66a3bb67997a3bc
+
 
 Project Description
 The OBEEC Restaurant Website project aims to create a dynamic and user-friendly website for a fictional restaurant. The website serves as a platform for customers to explore the restaurant's menu, make reservations, and learn more about the establishment. The project incorporates various features and technologies to enhance the user experience and showcase the team's skills.
 
-<<<<<<< HEAD
+
 ## Team Members
 
 - Efod Freda (Home Page)
@@ -55,7 +55,7 @@ Bootstrap framework for responsive design and layout.
 Setup Instructions
 To set up and run the Restaurant Website project locally, follow these steps:
 
-<<<<<<< HEAD
+
 1. Clone the project repository from [GitHub Repo URL] to your local machine.
 2. Ensure you have a compatible web server environment (such as Apache or Chrome) installed.
 3. Start the web server and navigate to the project directory in your web browser.
@@ -71,7 +71,7 @@ Ensure you have a compatible web server environment (such as Apache or Chrome) i
 Start the web server and navigate to the project directory in your web browser.
 License
 The OBEEC Restaurant Website project is licensed under the MIT License. You can find the full text of the license in the LICENSE.md file.
->>>>>>> 8d9d173ff1b4d55f13e32736f66a3bb67997a3bc
+
 
 Conclusion
 The OBEEC project developed by the team of Computer Science students provides an engaging and functional website for a fictional restaurant. It demonstrates the team's skills in web development, user experience design, and frontend technologies. Feel free to explore the website and contact us if you have any questions or feedback. Enjoy your dining experience!
