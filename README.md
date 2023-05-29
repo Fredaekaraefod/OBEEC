@@ -45,38 +45,7 @@ The OBEEC Restaurant Website project includes the following key features:
    - Developed a dedicated section where customers can browse the restaurant's menu.
    - Utilized HTML5, CSS3, and JavaScript for structure, styling, and interactive menu features.
 
-## Technologies Used
-=======
-Team Members
-Efod Freda (Home Page)
-Bello Olatunbosun (Contact Us)
-Idowu Akinwalehinmi (Menu)
-Lateef Latifat (Team)
-Membere Inoma (About Us)
-Project Features
-The OBEEC Restaurant Website project includes the following key features:
 
-Home Page (by Efod Freda):
-
-Created an attractive and informative landing page that provides an overview of the restaurant.
-Utilized HTML5, CSS3, and Bootstrap for structure, styling, and responsive design.
-About Us (by Membere Inoma):
-
-Developed a page that provides information about the restaurant's history, mission, and values.
-Used HTML5, CSS3, and Bootstrap for structure, styling, and layout.
-Team (by Lateef Latifat):
-
-Designed a section where the team members are introduced, highlighting their roles and expertise in the project.
-Implemented HTML5, CSS3, and Bootstrap for structure, styling, and layout.
-Contact Us (by Bello Olatunbosun):
-
-Implemented a contact form that allows users to send inquiries, feedback, or any other messages directly to the restaurant.
-Utilized HTML5, CSS3, and JavaScript for form creation and interactivity.
-Menu (by Idowu Akinwalehinmi):
->>>>>>> 8d9d173ff1b4d55f13e32736f66a3bb67997a3bc
-
-Developed a dedicated section where customers can browse the restaurant's menu.
-Utilized HTML5, CSS3, and JavaScript for structure, styling, and interactive menu features.
 Technologies Used
 The team utilized a variety of technologies and tools to develop the Restaurant Website:
 
