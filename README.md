@@ -20,6 +20,8 @@ The OBEEC Restaurant Website project aims to create a dynamic and user-friendly 
 
 The OBEEC Restaurant Website project includes the following key features:
 
+
+
 1. **Home Page** (by Efod Freda):
    - Created an attractive and informative landing page that provides an overview of the restaurant.
    - Utilized HTML5, CSS3, and Bootstrap for structure, styling, and responsive design.
@@ -41,13 +43,18 @@ The OBEEC Restaurant Website project includes the following key features:
    - Utilized HTML5, CSS3, and JavaScript for structure, styling, and interactive menu features.
 
 
-Technologies Used
+## Technologies Used
+
+
 The team utilized a variety of technologies and tools to develop the Restaurant Website:
+
 
 HTML5 and CSS3 for the website structure and styling.
 JavaScript and jQuery for interactivity and dynamic content.
 Bootstrap framework for responsive design and layout.
-Setup Instructions
+
+
+## Setup Instructions
 To set up and run the Restaurant Website project locally, follow these steps:
 
 
@@ -59,14 +66,7 @@ To set up and run the Restaurant Website project locally, follow these steps:
 
 The OBEEC Restaurant Website project is licensed under the MIT License. You can find the full text of the license in the [LICENSE](LICENSE) file.
 
+
+
 ## Conclusion
-
-Clone the project repository from [GitHub Repo URL] to your local machine.
-Ensure you have a compatible web server environment (such as Apache or Chrome) installed.
-Start the web server and navigate to the project directory in your web browser.
-License
-The OBEEC Restaurant Website project is licensed under the MIT License. You can find the full text of the license in the LICENSE.md file.
-
-
-Conclusion
 The OBEEC project developed by the team of Computer Science students provides an engaging and functional website for a fictional restaurant. It demonstrates the team's skills in web development, user experience design, and frontend technologies. Feel free to explore the website and contact us if you have any questions or feedback. Enjoy your dining experience!
