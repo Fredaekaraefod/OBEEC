@@ -4,7 +4,7 @@
 This README provides an overview and instructions for the Restaurant Website project named OBEEC restaurant developed by a team of five Computer Science students as part of the GST 203 course in Caleb University.
 
 ## Project Description
-=======
+
 Restaurant Website Project (OBEEC) - README
 This README provides an overview and instructions for the Restaurant Website project named OBEEC restaurant developed by a team of five Computer Science students as part of the GST 203 course in Caleb University.
 
@@ -65,7 +65,7 @@ To set up and run the Restaurant Website project locally, follow these steps:
 The OBEEC Restaurant Website project is licensed under the MIT License. You can find the full text of the license in the [LICENSE](LICENSE) file.
 
 ## Conclusion
-=======
+
 Clone the project repository from [GitHub Repo URL] to your local machine.
 Ensure you have a compatible web server environment (such as Apache or Chrome) installed.
 Start the web server and navigate to the project directory in your web browser.
